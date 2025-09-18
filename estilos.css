@@ -1,19 +1,22 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: pink; /* Fondo rosa */
 }
 
 table {
     border-collapse: collapse;
     width: 60%;
+    background-color: beige; /* Fondo tabla */
 }
 
 th, td {
-    border: 1px solid black;
+    border: 2px solid black; /* Líneas negras */
     padding: 10px;
     text-align: center;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #e6e6e6; /* gris claro para encabezado */
 }
+
